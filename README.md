@@ -1,4 +1,4 @@
-## DNASpeech: DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions
+## DNASpeech: DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://github.com/DNASpeech/DNASpeech/blob/main/LICENSE)
 
 ![DNASpeech Dataset](https://github.com/DNASpeech/DNASpeech/blob/main/imgs/demos.png)
 
@@ -87,7 +87,9 @@ Below is a detailed example. For more examples, please refer to DNASpeech_meta.j
 
 If you wish to obtain the original, unprocessed audio files, we provide **DNASpeech_raw**, which contains the same content as NDASpeech_wav, but with all audio files in their raw, unprocessed state.
 
+![Statistics of Speeches](https://github.com/DNASpeech/DNASpeech/blob/main/imgs/stat.png)
+
 ## License
-All data is distributed under the CC BY-NC-SA 4.0 license. 
+All data is distributed under the [CC BY-NC-SA 4.0 license](https://github.com/DNASpeech/DNASpeech/blob/main/LICENSE). 
 
 Given the sensitive nature of biometric data, particularly vocal recordings, all data undergo anonymization to protect personal privacy. However, despite these measures, there exists a potential risk of misuse. **To prevent unauthorized usage or dissemination, access to the dataset is subject to a rigorous review process.** Regarding the intended use, users are permitted to define their own tasks in our dataset under the license, upon advanced contact with [us](chengchuanqi@ruc.edu.cn).
