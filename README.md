@@ -1,5 +1,7 @@
 ## DNASpeech: DNASpeech: A Contextualized and Situated Text-to-Speech Dataset with Dialogues, Narratives and Actions
 
+![DNASpeech Dataset](https://github.com/DNASpeech/DNASpeech/blob/main/imgs/demos.png)
+
 DNASpeech is a novel text-to-speech dataset with high-quality speeches with **DNA** prompt annotations (**D**ialogue context, **N**arratives and **A**ction states). DNASpeech contains 2,395 distinct characters, 4,4529 scenes, and 22,975 dialogue utterances, along with over 18 hours of high-quality10 speech recordings, which provides text-to-speech task with more detailed description.
 
 ## Usage
